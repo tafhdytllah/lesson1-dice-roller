@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson-1-Dice-Roller</string>
+    <string name="roll">Roll</string>
+    <string name="result">1</string>
+</resources>
